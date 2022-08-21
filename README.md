@@ -4,7 +4,7 @@
 
 Submitted by: **Tzu-Hsuan(Grace) Liu**
 
-Time spent: **1** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -22,19 +22,18 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [v] Add setting for users to set their custom tip percentage
 
 ## Video Walkthrough
-
 Here's a walkthrough of implemented user stories:
+![](https://i.imgur.com/F8JJU8d.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Since it's the first time I develop for ios. It took me some time to familiarize with the languages and tools. However it is a really fun experience and I would like to learn more about ios programming.
 
 ## License
 
